@@ -2,7 +2,7 @@
 
 A Python information aggregator that combines **NewsAPI** + **web scraping**, with a **Tkinter GUI**, OOP architecture, response caching, data visualization and unit tests.
 
-> 🚧 Work in progress.
+> Work in progress.
 
 ## Project structure
 
